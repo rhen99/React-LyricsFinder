@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//rhen99/React-LyricsFinder/static/css/main.cfda8877.chunk.css",
+    "main.js": "//rhen99/React-LyricsFinder/static/js/main.598528e8.chunk.js",
+    "main.js.map": "//rhen99/React-LyricsFinder/static/js/main.598528e8.chunk.js.map",
+    "runtime~main.js": "//rhen99/React-LyricsFinder/static/js/runtime~main.a2b0e81b.js",
+    "runtime~main.js.map": "//rhen99/React-LyricsFinder/static/js/runtime~main.a2b0e81b.js.map",
+    "static/js/2.ecee10b6.chunk.js": "//rhen99/React-LyricsFinder/static/js/2.ecee10b6.chunk.js",
+    "static/js/2.ecee10b6.chunk.js.map": "//rhen99/React-LyricsFinder/static/js/2.ecee10b6.chunk.js.map",
+    "index.html": "//rhen99/React-LyricsFinder/index.html",
+    "precache-manifest.2e6b9cfd227015fa0cde32df79894dda.js": "//rhen99/React-LyricsFinder/precache-manifest.2e6b9cfd227015fa0cde32df79894dda.js",
+    "service-worker.js": "//rhen99/React-LyricsFinder/service-worker.js",
+    "static/css/main.cfda8877.chunk.css.map": "//rhen99/React-LyricsFinder/static/css/main.cfda8877.chunk.css.map"
+  }
+}
